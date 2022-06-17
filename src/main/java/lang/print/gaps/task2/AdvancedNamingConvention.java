@@ -1,10 +1,10 @@
 package lang.print.gaps.task2;
 
 public class AdvancedNamingConvention {
-    private static final int adultAge = 18;
+    static final int ADULTAGE = 18;
 
-    private int Age;
-    private int phoneNumber;
+    int Age;
+    int phoneNumber;
 
     void callByName() {
         //some code
